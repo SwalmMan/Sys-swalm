@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['ahelp','Type ahelp','by Slim Man#9063'];
+    var setGame = ['ahelp','Type ahelp','.Dirillis'];
     var i = -1;
     var j = 0;
     setInterval(function (){
